@@ -1,0 +1,88 @@
+aid: canaan-partners
+name: Canaan Partners
+description: >-
+  Canaan Partners is an early-stage venture capital firm founded in 1987 as a
+  management buyout spin-out from General Electric's venture unit. The firm
+  invests in "visionaries with transformative ideas," backing companies from
+  seed through Series A across a roughly 60/40 split between technology and
+  healthcare. On the technology side Canaan funds developer tools, security,
+  infrastructure, fintech, consumer, AI, and frontier/deep-tech companies; on
+  the healthcare side it specializes in de novo biotech creation, therapeutics,
+  and medical devices. Headquartered in Stamford, Connecticut with offices in
+  San Francisco, Menlo Park, and New York City, Canaan has raised roughly $7
+  billion across 13 funds and is actively deploying Fund XIII. Over its 37-year
+  history the firm reports a track record of 73 IPOs and 152 M&A exits, with
+  notable investments including Instacart, LendingClub, The RealReal, DexCom,
+  Match.com, Snyk, Turo, Cardlytics, and Day One Biopharmaceuticals.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://www.canaan.com/favicon.ico
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Early Stage
+  - Healthcare
+  - Biotech
+  - Developer Tools
+  - Fintech
+  - Consumer
+  - Artificial Intelligence
+  - North America
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.canaan.com
+  - type: Portfolio
+    url: https://www.canaan.com/companies
+  - type: Portfolio
+    url: portfolio/canaan-partners-portfolio.yml
+  - type: Team
+    url: https://www.canaan.com/team
+  - type: About
+    url: https://www.canaan.com/about
+  - type: InvestmentThesis
+    url: https://www.canaan.com/about
+  - type: Blog
+    url: https://www.canaan.com/latest
+  - type: News
+    url: https://www.canaan.com/latest
+  - type: Podcast
+    url: https://www.canaan.com/woven/podcasts
+  - type: Jobs
+    url: https://platform.canaan.com/careers
+  - type: Contact
+    url: https://www.canaan.com/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/canaan-partners
+  - type: Twitter
+    url: https://twitter.com/canaanpartners
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/canaan-partners
+  - type: Features
+    data:
+      - 'Stage: Seed, Series A (early stage)'
+      - 'Sectors: technology and healthcare (~60/40 split) — developer tools, security, infrastructure, fintech, consumer, AI, deep tech; therapeutics, biotech, medical devices'
+      - 'Geography: United States (Stamford CT HQ; San Francisco, Menlo Park, New York offices)'
+      - 'AUM: ~$7B raised across 13 funds (self-reported)'
+      - 'Current fund: Fund XIII'
+      - 'Founded: 1987'
+      - 'HQ: Stamford, Connecticut'
+      - 'Track record: 73 IPOs, 152 M&A exits (self-reported)'
+    sources:
+      - https://www.canaan.com/about
+      - https://en.wikipedia.org/wiki/Canaan_Partners
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    url: https://apievangelist.com
+    email: info@apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+    email: info@apisjson.org
+  - FN: Canaan Partners
+    url: https://www.canaan.com
+    email: info@canaan.com
