@@ -3,101 +3,119 @@ method: searched
 source: https://www.canaan.com/companies
 summary:
   portfolio_total: 341
-  in_network: 30
-  api_providers: 19
-  missing: 311
+  in_network: 341
+  api_providers: 38
+  missing: 0
   stubs_created: 0
 companies:
 - name: Abyrx
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: abyrx
+  slug: abyrx
+  matched_by: name-slug
 - name: Aceiss
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aceiss
+  slug: aceiss
+  matched_by: name-slug
 - name: Acesion Pharma
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: acesion-pharma
+  slug: acesion-pharma
+  matched_by: name-slug
 - name: Actio Biosciences
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: actio-biosciences
+  slug: actio-biosciences
+  matched_by: name-slug
 - name: Active Network
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: active-network
+  in_network: true
+  is_api_provider: true
+  slug: active-network
+  matched_by: name-slug
 - name: Actualyzeai
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: actualyzeai
+  slug: actualyzeai
+  matched_by: name-slug
 - name: Advanced Biohealing
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: advanced-biohealing
+  slug: advanced-biohealing
+  matched_by: name-slug
 - name: Aer Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aer-therapeutics
+  slug: aer-therapeutics
+  matched_by: name-slug
 - name: Aeva
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aeva
+  slug: aeva
+  matched_by: name-slug
 - name: Agomab Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: agomab-therapeutics
+  slug: agomab-therapeutics
+  matched_by: name-slug
 - name: Aim Security
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aim-security
+  slug: aim-security
+  matched_by: name-slug
 - name: Aireye
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aireye
+  slug: aireye
+  matched_by: name-slug
 - name: Alkymi
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alkymi
+  slug: alkymi
+  matched_by: name-slug
 - name: Alphina Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alphina-therapeutics
+  slug: alphina-therapeutics
+  matched_by: name-slug
 - name: Alsius
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alsius
+  slug: alsius
+  matched_by: name-slug
 - name: Alterego
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alterego
+  slug: alterego
+  matched_by: name-slug
 - name: Alterome Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alterome-therapeutics
+  slug: alterome-therapeutics
+  matched_by: name-slug
 - name: Altimate
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: altimate
+  slug: altimate
+  matched_by: name-slug
 - name: Ambra Health
   source: https://www.canaan.com/companies
   slug: ambra-health
@@ -112,24 +130,28 @@ companies:
   matched_by: name-slug
 - name: Antiva Biosciences
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: antiva-biosciences
+  slug: antiva-biosciences
+  matched_by: name-slug
 - name: Apartment List
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: apartment-list
+  slug: apartment-list
+  matched_by: name-slug
 - name: Apex Ai
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: apex-ai
+  slug: apex-ai
+  matched_by: name-slug
 - name: Apieron
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: apieron
+  slug: apieron
+  matched_by: name-slug
 - name: Appsmith
   source: https://www.canaan.com/companies
   slug: appsmith
@@ -138,9 +160,10 @@ companies:
   matched_by: name-slug
 - name: Arbor
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arbor
+  slug: arbor
+  matched_by: name-slug
 - name: Arcade
   source: https://www.canaan.com/companies
   slug: arcade
@@ -149,79 +172,94 @@ companies:
   matched_by: name-slug
 - name: Archipelago
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: archipelago
+  slug: archipelago
+  matched_by: name-slug
 - name: Argon
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: argon
+  slug: argon
+  matched_by: name-slug
 - name: Arrakis Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arrakis-therapeutics
+  slug: arrakis-therapeutics
+  matched_by: name-slug
 - name: Artie
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: artie
+  in_network: true
+  is_api_provider: true
+  slug: artie
+  matched_by: name-slug
 - name: Arvinas
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arvinas
+  slug: arvinas
+  matched_by: name-slug
 - name: Associated Content
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: associated-content
+  slug: associated-content
+  matched_by: name-slug
 - name: Astra
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: astra
+  slug: astra
+  matched_by: name-slug
 - name: Atheromed
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: atheromed
+  slug: atheromed
+  matched_by: name-slug
 - name: Attotude
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: attotude
+  slug: attotude
+  matched_by: name-slug
 - name: Autobahn Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: autobahn-therapeutics
+  slug: autobahn-therapeutics
+  matched_by: name-slug
 - name: Axcelius I Ii
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: axcelius-i-ii
+  slug: axcelius-i-ii
+  matched_by: name-slug
 - name: Axis Security
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: axis-security
+  slug: axis-security
+  matched_by: name-slug
 - name: Basebuild
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: basebuild
+  slug: basebuild
+  matched_by: name-slug
 - name: Beckon
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: beckon
+  slug: beckon
+  matched_by: name-slug
 - name: Bellhops
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bellhops
+  slug: bellhops
+  matched_by: name-slug
 - name: Berkshire Grey
   source: https://www.canaan.com/companies
   slug: berkshire-grey
@@ -230,24 +268,28 @@ companies:
   matched_by: name-slug
 - name: Bev
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bev
+  slug: bev
+  matched_by: name-slug
 - name: Bharat Matrimony
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bharat-matrimony
+  slug: bharat-matrimony
+  matched_by: name-slug
 - name: Binarly
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: binarly
+  in_network: true
+  is_api_provider: true
+  slug: binarly
+  matched_by: name-slug
 - name: Bipar Sciences
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bipar-sciences
+  slug: bipar-sciences
+  matched_by: name-slug
 - name: Bird
   source: https://www.canaan.com/companies
   slug: bird
@@ -256,64 +298,76 @@ companies:
   matched_by: name-slug
 - name: Blurb
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: blurb
+  slug: blurb
+  matched_by: name-slug
 - name: Bond
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bond
+  slug: bond
+  matched_by: name-slug
 - name: Boostup
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: boostup
+  in_network: true
+  is_api_provider: true
+  slug: boostup
+  matched_by: name-slug
 - name: Bravo Sierra
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bravo-sierra
+  slug: bravo-sierra
+  matched_by: name-slug
 - name: Brigit
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: brigit
+  slug: brigit
+  matched_by: name-slug
 - name: Bumblebee Spaces
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bumblebee-spaces
+  slug: bumblebee-spaces
+  matched_by: name-slug
 - name: Bumped
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bumped
+  slug: bumped
+  matched_by: name-slug
 - name: Buzzer
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: buzzer
+  slug: buzzer
+  matched_by: name-slug
 - name: Bzaar
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bzaar
+  slug: bzaar
+  matched_by: name-slug
 - name: C Infinity
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: c-infinity
+  slug: c-infinity
+  matched_by: name-slug
 - name: Calibra Medical
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: calibra-medical
+  slug: calibra-medical
+  matched_by: name-slug
 - name: Calixa Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: calixa-therapeutics
+  slug: calixa-therapeutics
+  matched_by: name-slug
 - name: Canopy
   source: https://www.canaan.com/companies
   slug: canopy
@@ -328,64 +382,76 @@ companies:
   matched_by: name-slug
 - name: Capmac
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: capmac
+  slug: capmac
+  matched_by: name-slug
 - name: Capstone Turbine
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: capstone-turbine
+  slug: capstone-turbine
+  matched_by: name-slug
 - name: Cardlytics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cardlytics
+  slug: cardlytics
+  matched_by: name-slug
 - name: Cargomatic
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: cargomatic
+  in_network: true
+  is_api_provider: true
+  slug: cargomatic
+  matched_by: name-slug
 - name: Catalym
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: catalym
+  slug: catalym
+  matched_by: name-slug
 - name: Cayena
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cayena
+  slug: cayena
+  matched_by: name-slug
 - name: Cell Pathways
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cell-pathways
+  slug: cell-pathways
+  matched_by: name-slug
 - name: Cellular Research
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cellular-research
+  slug: cellular-research
+  matched_by: name-slug
 - name: Cerexa
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cerexa
+  slug: cerexa
+  matched_by: name-slug
 - name: Chimerix
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chimerix
+  slug: chimerix
+  matched_by: name-slug
 - name: Circleup
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: circleup
+  slug: circleup
+  matched_by: name-slug
 - name: Civitas Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: civitas-therapeutics
+  slug: civitas-therapeutics
+  matched_by: name-slug
 - name: Clevertap
   source: https://www.canaan.com/companies
   slug: clevertap
@@ -394,9 +460,10 @@ companies:
   matched_by: name-slug
 - name: Climacell
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: climacell
+  slug: climacell
+  matched_by: name-slug
 - name: Clutch
   source: https://www.canaan.com/companies
   slug: clutch
@@ -405,39 +472,46 @@ companies:
   matched_by: name-slug
 - name: Coda Project
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: coda-project
+  in_network: true
+  is_api_provider: true
+  slug: coda-project
+  matched_by: name-slug
 - name: Coinmine
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: coinmine
+  slug: coinmine
+  matched_by: name-slug
 - name: Combinatorx
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: combinatorx
+  slug: combinatorx
+  matched_by: name-slug
 - name: Commerce One
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: commerce-one
+  slug: commerce-one
+  matched_by: name-slug
 - name: Commonwealth
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: commonwealth
+  slug: commonwealth
+  matched_by: name-slug
 - name: Compstak
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: compstak
+  slug: compstak
+  matched_by: name-slug
 - name: Concord Communications
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: concord-communications
+  slug: concord-communications
+  matched_by: name-slug
 - name: Contentsquare
   source: https://www.canaan.com/companies
   slug: contentsquare
@@ -446,14 +520,16 @@ companies:
   matched_by: name-slug
 - name: Copper Mountain Network
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: copper-mountain-network
+  slug: copper-mountain-network
+  matched_by: name-slug
 - name: Cortina Systems
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cortina-systems
+  slug: cortina-systems
+  matched_by: name-slug
 - name: Coterie
   source: https://www.canaan.com/companies
   slug: coterie
@@ -462,49 +538,58 @@ companies:
   matched_by: name-slug
 - name: Countable
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: countable
+  slug: countable
+  matched_by: name-slug
 - name: Crosslogix
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: crosslogix
+  slug: crosslogix
+  matched_by: name-slug
 - name: Curtsy
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: curtsy
+  slug: curtsy
+  matched_by: name-slug
 - name: Cuyana
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cuyana
+  slug: cuyana
+  matched_by: name-slug
 - name: Cynomi
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cynomi
+  slug: cynomi
+  matched_by: name-slug
 - name: Cytomx
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cytomx
+  slug: cytomx
+  matched_by: name-slug
 - name: Data Sciences International
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: data-sciences-international
+  slug: data-sciences-international
+  matched_by: name-slug
 - name: Day One Biopharmaceuticals
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: day-one-biopharmaceuticals
+  slug: day-one-biopharmaceuticals
+  matched_by: name-slug
 - name: Dermira
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dermira
+  slug: dermira
+  matched_by: name-slug
 - name: Dexcom
   source: https://www.canaan.com/companies
   slug: dexcom
@@ -513,14 +598,16 @@ companies:
   matched_by: name-slug
 - name: Dexterra
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dexterra
+  slug: dexterra
+  matched_by: name-slug
 - name: Diffusion
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: diffusion
+  slug: diffusion
+  matched_by: name-slug
 - name: Diligent Robotics
   source: https://www.canaan.com/companies
   slug: diligent-robotics
@@ -529,54 +616,64 @@ companies:
   matched_by: name-slug
 - name: Doorstep
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: doorstep
+  slug: doorstep
+  matched_by: name-slug
 - name: Doubleclick
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: doubleclick
+  slug: doubleclick
+  matched_by: name-slug
 - name: Dragos
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: dragos
+  in_network: true
+  is_api_provider: true
+  slug: dragos
+  matched_by: name-slug
 - name: Draig Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: draig-therapeutics
+  slug: draig-therapeutics
+  matched_by: name-slug
 - name: Drivetime
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: drivetime
+  slug: drivetime
+  matched_by: name-slug
 - name: Durata Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: durata-therapeutics
+  slug: durata-therapeutics
+  matched_by: name-slug
 - name: Dusty Robotics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dusty-robotics
+  slug: dusty-robotics
+  matched_by: name-slug
 - name: Earnipay
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: earnipay
+  in_network: true
+  is_api_provider: true
+  slug: earnipay
+  matched_by: name-slug
 - name: Ebates
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ebates
+  slug: ebates
+  matched_by: name-slug
 - name: Echopass
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: echopass
+  slug: echopass
+  matched_by: name-slug
 - name: Edge Impulse
   source: https://www.canaan.com/companies
   slug: edge-impulse
@@ -585,9 +682,10 @@ companies:
   matched_by: name-slug
 - name: Elevation Pharmaceuticals
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: elevation-pharmaceuticals
+  slug: elevation-pharmaceuticals
+  matched_by: name-slug
 - name: Embroker
   source: https://www.canaan.com/companies
   slug: embroker
@@ -596,144 +694,172 @@ companies:
   matched_by: name-slug
 - name: Emissary
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: emissary
+  slug: emissary
+  matched_by: name-slug
 - name: Endogastric Solutions
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: endogastric-solutions
+  slug: endogastric-solutions
+  matched_by: name-slug
 - name: Enpirion
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enpirion
+  slug: enpirion
+  matched_by: name-slug
 - name: Enterpret
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enterpret
+  slug: enterpret
+  matched_by: name-slug
 - name: Envisia
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: envisia
+  slug: envisia
+  matched_by: name-slug
 - name: Eon Laboratories
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eon-laboratories
+  slug: eon-laboratories
+  matched_by: name-slug
 - name: Ephemeral
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ephemeral
+  slug: ephemeral
+  matched_by: name-slug
 - name: Esperion Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: esperion-therapeutics
+  slug: esperion-therapeutics
+  matched_by: name-slug
 - name: Estamp
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: estamp
+  slug: estamp
+  matched_by: name-slug
 - name: Even Financial
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: even-financial
+  in_network: true
+  is_api_provider: true
+  slug: even-financial
+  matched_by: name-slug
 - name: Everdream
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: everdream
+  slug: everdream
+  matched_by: name-slug
 - name: Execthread
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: execthread
+  slug: execthread
+  matched_by: name-slug
 - name: Field Ai
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: field-ai
+  slug: field-ai
+  matched_by: name-slug
 - name: Fireflies Ai
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fireflies-ai
+  slug: fireflies-ai
+  matched_by: name-slug
 - name: Fla
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fla
+  slug: fla
+  matched_by: name-slug
 - name: Forte
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: forte
+  slug: forte
+  matched_by: name-slug
 - name: Frame
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: frame
+  slug: frame
+  matched_by: name-slug
 - name: Fxlabs
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fxlabs
+  slug: fxlabs
+  matched_by: name-slug
 - name: Gen G
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gen-g
+  slug: gen-g
+  matched_by: name-slug
 - name: Genome Medical
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: genome-medical
+  slug: genome-medical
+  matched_by: name-slug
 - name: Genvec
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: genvec
+  slug: genvec
+  matched_by: name-slug
 - name: Glooko
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: glooko
+  slug: glooko
+  matched_by: name-slug
 - name: Goodwin
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: goodwin
+  slug: goodwin
+  matched_by: name-slug
 - name: Grey Wolf Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: grey-wolf-therapeutics
+  slug: grey-wolf-therapeutics
+  matched_by: name-slug
 - name: Grokstyle
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: grokstyle
+  slug: grokstyle
+  matched_by: name-slug
 - name: Groundwork Open Source
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: groundwork-open-source
+  in_network: true
+  is_api_provider: true
+  slug: groundwork-open-source
+  matched_by: name-slug
 - name: Habeas
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: habeas
+  slug: habeas
+  matched_by: name-slug
 - name: Halda Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: halda-therapeutics
+  slug: halda-therapeutics
+  matched_by: name-slug
 - name: Helium
   source: https://www.canaan.com/companies
   slug: helium
@@ -742,49 +868,58 @@ companies:
   matched_by: name-slug
 - name: Hermeus
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hermeus
+  slug: hermeus
+  matched_by: name-slug
 - name: Heymilo
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: heymilo
+  in_network: true
+  is_api_provider: true
+  slug: heymilo
+  matched_by: name-slug
 - name: Highrise
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: highrise
+  in_network: true
+  is_api_provider: true
+  slug: highrise
+  matched_by: name-slug
 - name: Homeis
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: homeis
+  slug: homeis
+  matched_by: name-slug
 - name: Hugo
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hugo
+  slug: hugo
+  matched_by: name-slug
 - name: Hyalex Orthopaedics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hyalex-orthopaedics
+  slug: hyalex-orthopaedics
+  matched_by: name-slug
 - name: Id Analytics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: id-analytics
+  slug: id-analytics
+  matched_by: name-slug
 - name: Ideaya Biosciences
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ideaya-biosciences
+  slug: ideaya-biosciences
+  matched_by: name-slug
 - name: Immunicon
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: immunicon
+  slug: immunicon
+  matched_by: name-slug
 - name: Instacart
   source: https://www.canaan.com/companies
   slug: instacart
@@ -793,9 +928,10 @@ companies:
   matched_by: name-slug
 - name: Instante
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: instante
+  slug: instante
+  matched_by: name-slug
 - name: Instrumental
   source: https://www.canaan.com/companies
   slug: instrumental
@@ -804,19 +940,22 @@ companies:
   matched_by: name-slug
 - name: Intellicare
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: intellicare
+  slug: intellicare
+  matched_by: name-slug
 - name: Interact Commerce
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: interact-commerce
+  slug: interact-commerce
+  matched_by: name-slug
 - name: International Network Services
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: international-network-services
+  slug: international-network-services
+  matched_by: name-slug
 - name: Intralinks
   source: https://www.canaan.com/companies
   slug: intralinks
@@ -825,34 +964,40 @@ companies:
   matched_by: name-slug
 - name: Intraware
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: intraware
+  slug: intraware
+  matched_by: name-slug
 - name: Intrepedia Bio
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: intrepedia-bio
+  slug: intrepedia-bio
+  matched_by: name-slug
 - name: Iprint
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: iprint
+  slug: iprint
+  matched_by: name-slug
 - name: Istante
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: istante
+  slug: istante
+  matched_by: name-slug
 - name: Italic
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: italic
+  slug: italic
+  matched_by: name-slug
 - name: Iterum Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: iterum-therapeutics
+  slug: iterum-therapeutics
+  matched_by: name-slug
 - name: Jina Ai
   source: https://www.canaan.com/companies
   slug: jina-ai
@@ -861,64 +1006,76 @@ companies:
   matched_by: name-slug
 - name: Jobdirect
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jobdirect
+  slug: jobdirect
+  matched_by: name-slug
 - name: Join
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: join
+  slug: join
+  matched_by: name-slug
 - name: Joor
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: joor
+  slug: joor
+  matched_by: name-slug
 - name: Journey Medidtation
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: journey-medidtation
+  slug: journey-medidtation
+  matched_by: name-slug
 - name: Jumpcut
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jumpcut
+  slug: jumpcut
+  matched_by: name-slug
 - name: Kabam
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kabam
+  slug: kabam
+  matched_by: name-slug
 - name: Kalpana
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kalpana
+  slug: kalpana
+  matched_by: name-slug
 - name: Kepler Communications
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kepler-communications
+  slug: kepler-communications
+  matched_by: name-slug
 - name: Kickpay
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kickpay
+  slug: kickpay
+  matched_by: name-slug
 - name: Kin Euphorics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kin-euphorics
+  slug: kin-euphorics
+  matched_by: name-slug
 - name: Kinecta
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kinecta
+  slug: kinecta
+  matched_by: name-slug
 - name: Komprise
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: komprise
+  slug: komprise
+  matched_by: name-slug
 - name: Kustomer
   source: https://www.canaan.com/companies
   slug: kustomer
@@ -927,24 +1084,28 @@ companies:
   matched_by: name-slug
 - name: Labrys Biologics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: labrys-biologics
+  slug: labrys-biologics
+  matched_by: name-slug
 - name: Ladder
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ladder
+  slug: ladder
+  matched_by: name-slug
 - name: Lancope
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lancope
+  slug: lancope
+  matched_by: name-slug
 - name: Latitude Communications
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: latitude-communications
+  slug: latitude-communications
+  matched_by: name-slug
 - name: Leanplum
   source: https://www.canaan.com/companies
   slug: leanplum
@@ -953,79 +1114,94 @@ companies:
   matched_by: name-slug
 - name: Leap To Win Technologies Private
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: leap-to-win-technologies-private
+  slug: leap-to-win-technologies-private
+  matched_by: name-slug
 - name: Lending Club
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lending-club
+  slug: lending-club
+  matched_by: name-slug
 - name: Lev
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: lev
+  in_network: true
+  is_api_provider: true
+  slug: lev
+  matched_by: name-slug
 - name: Lily Ai
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lily-ai
+  slug: lily-ai
+  matched_by: name-slug
 - name: Liquidia
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: liquidia
+  slug: liquidia
+  matched_by: name-slug
 - name: Liveu
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: liveu
+  slug: liveu
+  matched_by: name-slug
 - name: Macheye
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: macheye
+  slug: macheye
+  matched_by: name-slug
 - name: Manime
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: manime
+  slug: manime
+  matched_by: name-slug
 - name: Mariner Health
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mariner-health
+  slug: mariner-health
+  matched_by: name-slug
 - name: Marinus Pharmaceuticals
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: marinus-pharmaceuticals
+  slug: marinus-pharmaceuticals
+  matched_by: name-slug
 - name: Marvin
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: marvin
+  slug: marvin
+  matched_by: name-slug
 - name: Match
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: match
+  slug: match
+  matched_by: name-slug
 - name: Matrix Pharmaceutical
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: matrix-pharmaceutical
+  slug: matrix-pharmaceutical
+  matched_by: name-slug
 - name: Metacloud
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: metacloud
+  slug: metacloud
+  matched_by: name-slug
 - name: Mightytv
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mightytv
+  slug: mightytv
+  matched_by: name-slug
 - name: Mindtickle
   source: https://www.canaan.com/companies
   slug: mindtickle
@@ -1034,144 +1210,172 @@ companies:
   matched_by: name-slug
 - name: Mira
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mira
+  slug: mira
+  matched_by: name-slug
 - name: Mobilitec
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mobilitec
+  slug: mobilitec
+  matched_by: name-slug
 - name: Mosey
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: mosey
+  in_network: true
+  is_api_provider: true
+  slug: mosey
+  matched_by: name-slug
 - name: Moviepass
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: moviepass
+  slug: moviepass
+  matched_by: name-slug
 - name: Mschf Product Studio
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mschf-product-studio
+  slug: mschf-product-studio
+  matched_by: name-slug
 - name: Mynd
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mynd
+  slug: mynd
+  matched_by: name-slug
 - name: Nagish
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nagish
+  slug: nagish
+  matched_by: name-slug
 - name: Network Engines
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: network-engines
+  slug: network-engines
+  matched_by: name-slug
 - name: Nextcure
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nextcure
+  slug: nextcure
+  matched_by: name-slug
 - name: Nivoda
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nivoda
+  slug: nivoda
+  matched_by: name-slug
 - name: Nocion
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nocion
+  slug: nocion
+  matched_by: name-slug
 - name: Normunity
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: normunity
+  slug: normunity
+  matched_by: name-slug
 - name: Northstar Neuroscience
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: northstar-neuroscience
+  slug: northstar-neuroscience
+  matched_by: name-slug
 - name: Novee Security
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: novee-security
+  slug: novee-security
+  matched_by: name-slug
 - name: Novira Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: novira-therapeutics
+  slug: novira-therapeutics
+  matched_by: name-slug
 - name: Ntopology
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ntopology
+  slug: ntopology
+  matched_by: name-slug
 - name: Ollie
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ollie
+  slug: ollie
+  matched_by: name-slug
 - name: On Deck
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: on-deck
+  slug: on-deck
+  matched_by: name-slug
 - name: On24
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: on24
+  slug: on24
+  matched_by: name-slug
 - name: Oncolinea
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oncolinea
+  slug: oncolinea
+  matched_by: name-slug
 - name: Oncoresponse
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oncoresponse
+  slug: oncoresponse
+  matched_by: name-slug
 - name: Ondemand
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: ondemand
+  in_network: true
+  is_api_provider: true
+  slug: ondemand
+  matched_by: name-slug
 - name: Onefinestay
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: onefinestay
+  slug: onefinestay
+  matched_by: name-slug
 - name: Onesource Services
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: onesource-services
+  slug: onesource-services
+  matched_by: name-slug
 - name: Oni Systems
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oni-systems
+  slug: oni-systems
+  matched_by: name-slug
 - name: Onkos Surgical
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: onkos-surgical
+  slug: onkos-surgical
+  matched_by: name-slug
 - name: Onramp Payments
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: onramp-payments
+  slug: onramp-payments
+  matched_by: name-slug
 - name: Openart
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: openart
+  slug: openart
+  matched_by: name-slug
 - name: Opensky
   source: https://www.canaan.com/companies
   slug: opensky
@@ -1180,24 +1384,28 @@ companies:
   matched_by: name-slug
 - name: Orapharma
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: orapharma
+  slug: orapharma
+  matched_by: name-slug
 - name: Orchard
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: orchard
+  slug: orchard
+  matched_by: name-slug
 - name: Orthocon
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: orthocon
+  slug: orthocon
+  matched_by: name-slug
 - name: Page
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: page
+  slug: page
+  matched_by: name-slug
 - name: Papa
   source: https://www.canaan.com/companies
   slug: papa
@@ -1206,244 +1414,292 @@ companies:
   matched_by: name-slug
 - name: Partiful
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: partiful
+  slug: partiful
+  matched_by: name-slug
 - name: Pathios Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pathios-therapeutics
+  slug: pathios-therapeutics
+  matched_by: name-slug
 - name: Paxos
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: paxos
+  in_network: true
+  is_api_provider: true
+  slug: paxos
+  matched_by: name-slug
 - name: Peer39
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: peer39
+  slug: peer39
+  matched_by: name-slug
 - name: Peninsula Pharmaceuticals
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: peninsula-pharmaceuticals
+  slug: peninsula-pharmaceuticals
+  matched_by: name-slug
 - name: Perimeterx
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: perimeterx
+  slug: perimeterx
+  matched_by: name-slug
 - name: Players Lounge
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: players-lounge
+  slug: players-lounge
+  matched_by: name-slug
 - name: Plixi
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: plixi
+  slug: plixi
+  matched_by: name-slug
 - name: Podz
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: podz
+  slug: podz
+  matched_by: name-slug
 - name: Pozen
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pozen
+  slug: pozen
+  matched_by: name-slug
 - name: Praecis Pharmaceuticals
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: praecis-pharmaceuticals
+  slug: praecis-pharmaceuticals
+  matched_by: name-slug
 - name: Prax Health
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: prax-health
+  slug: prax-health
+  matched_by: name-slug
 - name: Premier Laboratory Services
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: premier-laboratory-services
+  slug: premier-laboratory-services
+  matched_by: name-slug
 - name: Primesense
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: primesense
+  slug: primesense
+  matched_by: name-slug
 - name: Protagonist Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: protagonist-therapeutics
+  slug: protagonist-therapeutics
+  matched_by: name-slug
 - name: Provenance
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: provenance
+  slug: provenance
+  matched_by: name-slug
 - name: Qlaris Bio
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: qlaris-bio
+  slug: qlaris-bio
+  matched_by: name-slug
 - name: Quantum Circuits
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: quantum-circuits
+  slug: quantum-circuits
+  matched_by: name-slug
 - name: Radd Pharmaceuticals
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: radd-pharmaceuticals
+  slug: radd-pharmaceuticals
+  matched_by: name-slug
 - name: Rally Network
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rally-network
+  slug: rally-network
+  matched_by: name-slug
 - name: Rallybio
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rallybio
+  slug: rallybio
+  matched_by: name-slug
 - name: Ramre
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ramre
+  slug: ramre
+  matched_by: name-slug
 - name: Rapidata
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: rapidata
+  in_network: true
+  is_api_provider: true
+  slug: rapidata
+  matched_by: name-slug
 - name: Reactive Biosciences
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reactive-biosciences
+  slug: reactive-biosciences
+  matched_by: name-slug
 - name: Reflex Careers
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reflex-careers
+  slug: reflex-careers
+  matched_by: name-slug
 - name: Reibus
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reibus
+  slug: reibus
+  matched_by: name-slug
 - name: Relievant Medsystems
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: relievant-medsystems
+  slug: relievant-medsystems
+  matched_by: name-slug
 - name: Renofi
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: renofi
+  slug: renofi
+  matched_by: name-slug
 - name: Requantive
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: requantive
+  slug: requantive
+  matched_by: name-slug
 - name: Revivant
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: revivant
+  slug: revivant
+  matched_by: name-slug
 - name: Rightpoint
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rightpoint
+  slug: rightpoint
+  matched_by: name-slug
 - name: Ro
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ro
+  slug: ro
+  matched_by: name-slug
 - name: Rocketrip
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rocketrip
+  slug: rocketrip
+  matched_by: name-slug
 - name: Rondo Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rondo-therapeutics
+  slug: rondo-therapeutics
+  matched_by: name-slug
 - name: Safire
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: safire
+  slug: safire
+  matched_by: name-slug
 - name: Sageox
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: sageox
+  in_network: true
+  is_api_provider: true
+  slug: sageox
+  matched_by: name-slug
 - name: Sample6
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sample6
+  slug: sample6
+  matched_by: name-slug
 - name: Sandforce
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sandforce
+  slug: sandforce
+  matched_by: name-slug
 - name: Savvy
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: savvy
+  slug: savvy
+  matched_by: name-slug
 - name: Semnur Pharmaceuticals
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: semnur-pharmaceuticals
+  slug: semnur-pharmaceuticals
+  matched_by: name-slug
 - name: Sensage
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sensage
+  slug: sensage
+  matched_by: name-slug
 - name: Shara
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shara
+  slug: shara
+  matched_by: name-slug
 - name: Shopkeep
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shopkeep
+  slug: shopkeep
+  matched_by: name-slug
 - name: Sidechat
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sidechat
+  slug: sidechat
+  matched_by: name-slug
 - name: Silicon Optix
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: silicon-optix
+  slug: silicon-optix
+  matched_by: name-slug
 - name: Silverrail
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: silverrail
+  slug: silverrail
+  matched_by: name-slug
 - name: Skale Labs
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: skale-labs
+  slug: skale-labs
+  matched_by: name-slug
 - name: Skybox Imaging
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: skybox-imaging
+  slug: skybox-imaging
+  matched_by: name-slug
 - name: Snyk
   source: https://www.canaan.com/companies
   slug: snyk
@@ -1452,134 +1708,160 @@ companies:
   matched_by: name-slug
 - name: Soasta
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: soasta
+  slug: soasta
+  matched_by: name-slug
 - name: Solvely Ai
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: solvely-ai
+  slug: solvely-ai
+  matched_by: name-slug
 - name: Sounding Board
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sounding-board
+  slug: sounding-board
+  matched_by: name-slug
 - name: Spectrian
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: spectrian
+  slug: spectrian
+  matched_by: name-slug
 - name: Spinifex Pharmaceuticals
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: spinifex-pharmaceuticals
+  slug: spinifex-pharmaceuticals
+  matched_by: name-slug
 - name: Successfactors
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: successfactors
+  slug: successfactors
+  matched_by: name-slug
 - name: Suiza Foods
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: suiza-foods
+  slug: suiza-foods
+  matched_by: name-slug
 - name: Superplastic
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: superplastic
+  slug: superplastic
+  matched_by: name-slug
 - name: Switchfly
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: switchfly
+  in_network: true
+  is_api_provider: true
+  slug: switchfly
+  matched_by: name-slug
 - name: Synthekine
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: synthekine
+  slug: synthekine
+  matched_by: name-slug
 - name: Tacit
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tacit
+  slug: tacit
+  matched_by: name-slug
 - name: Tallan
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tallan
+  slug: tallan
+  matched_by: name-slug
 - name: Taptap Send
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: taptap-send
+  slug: taptap-send
+  matched_by: name-slug
 - name: Tari
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tari
+  slug: tari
+  matched_by: name-slug
 - name: Telaria
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: telaria
+  slug: telaria
+  matched_by: name-slug
 - name: The Inside
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-inside
+  slug: the-inside
+  matched_by: name-slug
 - name: The Meta
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-meta
+  slug: the-meta
+  matched_by: name-slug
 - name: The Realreal
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-realreal
+  slug: the-realreal
+  matched_by: name-slug
 - name: Thirtyfivebio
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: thirtyfivebio
+  slug: thirtyfivebio
+  matched_by: name-slug
 - name: Tia
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tia
+  slug: tia
+  matched_by: name-slug
 - name: Tizona Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tizona-therapeutics
+  slug: tizona-therapeutics
+  matched_by: name-slug
 - name: Tobira Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tobira-therapeutics
+  slug: tobira-therapeutics
+  matched_by: name-slug
 - name: Transcend Medical
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: transcend-medical
+  slug: transcend-medical
+  matched_by: name-slug
 - name: Transposon Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: transposon-therapeutics
+  slug: transposon-therapeutics
+  matched_by: name-slug
 - name: Trishula Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: trishula-therapeutics
+  slug: trishula-therapeutics
+  matched_by: name-slug
 - name: Triton Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: triton-therapeutics
+  slug: triton-therapeutics
+  matched_by: name-slug
 - name: Tropic
   source: https://www.canaan.com/companies
   slug: tropic
@@ -1588,19 +1870,22 @@ companies:
   matched_by: name-slug
 - name: Truefort
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: truefort
+  slug: truefort
+  matched_by: name-slug
 - name: Truveris
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: truveris
+  slug: truveris
+  matched_by: name-slug
 - name: Tubular Labs
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tubular-labs
+  slug: tubular-labs
+  matched_by: name-slug
 - name: Turo
   source: https://www.canaan.com/companies
   slug: turo
@@ -1609,109 +1894,130 @@ companies:
   matched_by: name-slug
 - name: Twenty20
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: twenty20
+  slug: twenty20
+  matched_by: name-slug
 - name: Tyra
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tyra
+  slug: tyra
+  matched_by: name-slug
 - name: Unchained Labs
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: unchained-labs
+  slug: unchained-labs
+  matched_by: name-slug
 - name: Unifi
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: unifi
+  slug: unifi
+  matched_by: name-slug
 - name: Uniform Teeth
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: uniform-teeth
+  slug: uniform-teeth
+  matched_by: name-slug
 - name: Urbansitter
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: urbansitter
+  slug: urbansitter
+  matched_by: name-slug
 - name: Uroam
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: uroam
+  slug: uroam
+  matched_by: name-slug
 - name: Valid
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: valid
+  slug: valid
+  matched_by: name-slug
 - name: Vedana Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vedana-therapeutics
+  slug: vedana-therapeutics
+  matched_by: name-slug
 - name: Victorious
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: victorious
+  slug: victorious
+  matched_by: name-slug
 - name: Vima Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vima-therapeutics
+  slug: vima-therapeutics
+  matched_by: name-slug
 - name: Virsto
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: virsto
+  slug: virsto
+  matched_by: name-slug
 - name: Virtuoso Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: virtuoso-therapeutics
+  slug: virtuoso-therapeutics
+  matched_by: name-slug
 - name: Visigenic
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: visigenic
+  slug: visigenic
+  matched_by: name-slug
 - name: Visiprise
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: visiprise
+  slug: visiprise
+  matched_by: name-slug
 - name: Vivace Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vivace-therapeutics
+  slug: vivace-therapeutics
+  matched_by: name-slug
 - name: Voyence
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: voyence
+  slug: voyence
+  matched_by: name-slug
 - name: Vue
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vue
+  slug: vue
+  matched_by: name-slug
 - name: Webloyalty
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: webloyalty
+  slug: webloyalty
+  matched_by: name-slug
 - name: Wiselayer
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wiselayer
+  slug: wiselayer
+  matched_by: name-slug
 - name: Withco
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: withco
+  slug: withco
+  matched_by: name-slug
 - name: Workmotion
   source: https://www.canaan.com/companies
   slug: workmotion
@@ -1720,26 +2026,31 @@ companies:
   matched_by: name-slug
 - name: World View
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: world-view
+  slug: world-view
+  matched_by: name-slug
 - name: Xirrus
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xirrus
+  slug: xirrus
+  matched_by: name-slug
 - name: Zibo
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zibo
+  slug: zibo
+  matched_by: name-slug
 - name: Zmanda
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zmanda
+  slug: zmanda
+  matched_by: name-slug
 - name: Zugata
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zugata
+  slug: zugata
+  matched_by: name-slug
