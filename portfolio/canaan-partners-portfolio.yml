@@ -1302,7 +1302,7 @@ companies:
   source: https://www.canaan.com/companies
   in_network: true
   is_api_provider: false
-  slug: ntopology
+  slug: ntop-com
   matched_by: name-slug
 - name: Ollie
   source: https://www.canaan.com/companies
