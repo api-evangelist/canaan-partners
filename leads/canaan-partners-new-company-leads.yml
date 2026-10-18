@@ -1,4 +1,95 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: canaan-partners
-leads: []
+leads:
+- name: Altimate
+  url: ''
+  suggested_slug: altimate
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Arrakis Therapeutics
+  url: ''
+  suggested_slug: arrakis-therapeutics
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Climacell
+  url: ''
+  suggested_slug: climacell
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Doubleclick
+  url: ''
+  suggested_slug: doubleclick
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Ephemeral
+  url: ''
+  suggested_slug: ephemeral
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Fireflies Ai
+  url: ''
+  suggested_slug: fireflies-ai
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Forte
+  url: ''
+  suggested_slug: forte
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Helium
+  url: ''
+  suggested_slug: helium
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Lending Club
+  url: ''
+  suggested_slug: lending-club
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: On Deck
+  url: ''
+  suggested_slug: on-deck
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Skybox Imaging
+  url: ''
+  suggested_slug: skybox-imaging
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Successfactors
+  url: ''
+  suggested_slug: successfactors
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false
+- name: Taptap Send
+  url: ''
+  suggested_slug: taptap-send
+  sector: ''
+  source_vc: canaan-partners
+  source: https://www.canaan.com/companies
+  stub_created: false

@@ -3,9 +3,9 @@ method: searched
 source: https://www.canaan.com/companies
 summary:
   portfolio_total: 341
-  in_network: 341
-  api_providers: 38
-  missing: 0
+  in_network: 328
+  api_providers: 45
+  missing: 13
   stubs_created: 0
 companies:
 - name: Abyrx
@@ -112,10 +112,9 @@ companies:
   matched_by: name-slug
 - name: Altimate
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: altimate
-  matched_by: name-slug
+  suggested_slug: altimate
 - name: Ambra Health
   source: https://www.canaan.com/companies
   slug: ambra-health
@@ -184,10 +183,9 @@ companies:
   matched_by: name-slug
 - name: Arrakis Therapeutics
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: arrakis-therapeutics
-  matched_by: name-slug
+  suggested_slug: arrakis-therapeutics
 - name: Artie
   source: https://www.canaan.com/companies
   in_network: true
@@ -209,7 +207,7 @@ companies:
 - name: Astra
   source: https://www.canaan.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: astra
   matched_by: name-slug
 - name: Atheromed
@@ -305,7 +303,7 @@ companies:
 - name: Bond
   source: https://www.canaan.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: bond
   matched_by: name-slug
 - name: Boostup
@@ -372,7 +370,7 @@ companies:
   source: https://www.canaan.com/companies
   slug: canopy
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: name-slug
 - name: Capella Space
   source: https://www.canaan.com/companies
@@ -395,7 +393,7 @@ companies:
 - name: Cardlytics
   source: https://www.canaan.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: cardlytics
   matched_by: name-slug
 - name: Cargomatic
@@ -460,10 +458,9 @@ companies:
   matched_by: name-slug
 - name: Climacell
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: climacell
-  matched_by: name-slug
+  suggested_slug: climacell
 - name: Clutch
   source: https://www.canaan.com/companies
   slug: clutch
@@ -622,10 +619,9 @@ companies:
   matched_by: name-slug
 - name: Doubleclick
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: doubleclick
-  matched_by: name-slug
+  suggested_slug: doubleclick
 - name: Dragos
   source: https://www.canaan.com/companies
   in_network: true
@@ -730,10 +726,9 @@ companies:
   matched_by: name-slug
 - name: Ephemeral
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: ephemeral
-  matched_by: name-slug
+  suggested_slug: ephemeral
 - name: Esperion Therapeutics
   source: https://www.canaan.com/companies
   in_network: true
@@ -772,10 +767,9 @@ companies:
   matched_by: name-slug
 - name: Fireflies Ai
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: fireflies-ai
-  matched_by: name-slug
+  suggested_slug: fireflies-ai
 - name: Fla
   source: https://www.canaan.com/companies
   in_network: true
@@ -784,10 +778,9 @@ companies:
   matched_by: name-slug
 - name: Forte
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: forte
-  matched_by: name-slug
+  suggested_slug: forte
 - name: Frame
   source: https://www.canaan.com/companies
   in_network: true
@@ -862,10 +855,9 @@ companies:
   matched_by: name-slug
 - name: Helium
   source: https://www.canaan.com/companies
-  slug: helium
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: helium
 - name: Hermeus
   source: https://www.canaan.com/companies
   in_network: true
@@ -1120,10 +1112,9 @@ companies:
   matched_by: name-slug
 - name: Lending Club
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: lending-club
-  matched_by: name-slug
+  suggested_slug: lending-club
 - name: Lev
   source: https://www.canaan.com/companies
   in_network: true
@@ -1133,7 +1124,7 @@ companies:
 - name: Lily Ai
   source: https://www.canaan.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: lily-ai
   matched_by: name-slug
 - name: Liquidia
@@ -1206,7 +1197,7 @@ companies:
   source: https://www.canaan.com/companies
   slug: mindtickle
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: name-slug
 - name: Mira
   source: https://www.canaan.com/companies
@@ -1302,7 +1293,7 @@ companies:
   source: https://www.canaan.com/companies
   in_network: true
   is_api_provider: false
-  slug: ntop-com
+  slug: ntopology
   matched_by: name-slug
 - name: Ollie
   source: https://www.canaan.com/companies
@@ -1312,14 +1303,13 @@ companies:
   matched_by: name-slug
 - name: On Deck
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: on-deck
-  matched_by: name-slug
+  suggested_slug: on-deck
 - name: On24
   source: https://www.canaan.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: on24
   matched_by: name-slug
 - name: Oncolinea
@@ -1696,10 +1686,9 @@ companies:
   matched_by: name-slug
 - name: Skybox Imaging
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: skybox-imaging
-  matched_by: name-slug
+  suggested_slug: skybox-imaging
 - name: Snyk
   source: https://www.canaan.com/companies
   slug: snyk
@@ -1738,10 +1727,9 @@ companies:
   matched_by: name-slug
 - name: Successfactors
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: successfactors
-  matched_by: name-slug
+  suggested_slug: successfactors
 - name: Suiza Foods
   source: https://www.canaan.com/companies
   in_network: true
@@ -1780,10 +1768,9 @@ companies:
   matched_by: name-slug
 - name: Taptap Send
   source: https://www.canaan.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: taptap-send
-  matched_by: name-slug
+  suggested_slug: taptap-send
 - name: Tari
   source: https://www.canaan.com/companies
   in_network: true
