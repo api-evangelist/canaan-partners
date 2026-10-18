@@ -3,9 +3,9 @@ method: searched
 source: https://www.canaan.com/companies
 summary:
   portfolio_total: 341
-  in_network: 330
-  api_providers: 47
-  missing: 11
+  in_network: 336
+  api_providers: 48
+  missing: 5
   stubs_created: 0
 companies:
 - name: Abyrx
@@ -136,10 +136,12 @@ companies:
   x-url-source: network-repo (title-verified 2026-10-18)
 - name: Altimate
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: altimate
-  x-url-candidate: https://altimate.ai
+  in_network: true
+  is_api_provider: true
+  url: https://altimate.ai
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: altimate-ai
+  matched_by: domain
 - name: Ambra Health
   source: https://www.canaan.com/companies
   slug: ambra-health
@@ -867,7 +869,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: ephemeral
-  x-url-candidate: https://ephemeral.bio
+  x-url-rejected: https://ephemeral.bio
 - name: Esperion Therapeutics
   source: https://www.canaan.com/companies
   in_network: true
@@ -914,7 +916,8 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: fireflies-ai
-  x-url-candidate: https://fireflies.com
+  url: https://fireflies.com
+  x-url-source: web check 2026-10-18 (confirmed)
 - name: Fla
   source: https://www.canaan.com/companies
   in_network: true
@@ -923,10 +926,12 @@ companies:
   matched_by: name-slug
 - name: Forte
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: forte
-  x-url-candidate: https://www.forte.io/
+  url: https://www.forte.io/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: forte-labs
+  matched_by: domain
 - name: Frame
   source: https://www.canaan.com/companies
   in_network: true
@@ -1015,10 +1020,12 @@ companies:
   x-url-candidate: https://www.halda.com/
 - name: Helium
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: helium
-  x-url-candidate: https://www.helium.com/
+  url: https://www.helium.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: helium-network
+  matched_by: domain
 - name: Hermeus
   source: https://www.canaan.com/companies
   in_network: true
@@ -1314,10 +1321,12 @@ companies:
   matched_by: name-slug
 - name: Lending Club
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lending-club
-  x-url-candidate: https://www.happen.com/
+  url: https://www.happen.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: lendingclub
+  matched_by: domain
 - name: Lev
   source: https://www.canaan.com/companies
   in_network: true
@@ -1536,10 +1545,12 @@ companies:
   x-url-source: network-repo (title-verified 2026-10-18)
 - name: On Deck
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: on-deck
-  x-url-candidate: https://www.ondeck.com/
+  url: https://www.ondeck.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: ondeck
+  matched_by: domain
 - name: On24
   source: https://www.canaan.com/companies
   in_network: true
@@ -2085,10 +2096,12 @@ companies:
   matched_by: name-slug
 - name: Taptap Send
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: taptap-send
-  x-url-candidate: https://www.taptapsend.com/en
+  url: https://www.taptapsend.com/en
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: taptapsend
+  matched_by: domain
 - name: Tari
   source: https://www.canaan.com/companies
   in_network: true
