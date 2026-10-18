@@ -3,9 +3,9 @@ method: searched
 source: https://www.canaan.com/companies
 summary:
   portfolio_total: 341
-  in_network: 328
-  api_providers: 46
-  missing: 13
+  in_network: 330
+  api_providers: 47
+  missing: 11
   stubs_created: 0
 companies:
 - name: Abyrx
@@ -225,9 +225,12 @@ companies:
   x-url-candidate: https://www.aquasec.com/news/aqua-acquires-argon-software-supply-chain-security/
 - name: Arrakis Therapeutics
   source: https://www.canaan.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arrakis-therapeutics
+  url: https://www.arrakistx.com
+  x-url-source: web search 2026-10-18
+  slug: arrakis
+  matched_by: domain
 - name: Artie
   source: https://www.canaan.com/companies
   in_network: true
@@ -545,9 +548,12 @@ companies:
   x-url-source: network-repo (title-verified 2026-10-18)
 - name: Climacell
   source: https://www.canaan.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: climacell
+  in_network: true
+  is_api_provider: true
+  url: https://www.tomorrow.io
+  x-url-source: web search 2026-10-18
+  slug: tomorrow
+  matched_by: domain
 - name: Clutch
   source: https://www.canaan.com/companies
   slug: clutch

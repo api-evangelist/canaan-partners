@@ -9,20 +9,6 @@ leads:
   source_vc: canaan-partners
   source: https://www.canaan.com/companies
   stub_created: false
-- name: Arrakis Therapeutics
-  url: ''
-  suggested_slug: arrakis-therapeutics
-  sector: ''
-  source_vc: canaan-partners
-  source: https://www.canaan.com/companies
-  stub_created: false
-- name: Climacell
-  url: ''
-  suggested_slug: climacell
-  sector: ''
-  source_vc: canaan-partners
-  source: https://www.canaan.com/companies
-  stub_created: false
 - name: Doubleclick
   url: ''
   suggested_slug: doubleclick
